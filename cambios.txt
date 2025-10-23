@@ -1,0 +1,4 @@
+Cambios realizados:
+-He cambiado el texto del titulo 
+-He cambiado el menu y lo he puesto en español
+-He añadido imagenes
